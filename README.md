@@ -3,4 +3,5 @@
  fazer programa com vario forkes
  levando a inicio e junção das aulas gustavo guanabara
  semepre comentar no readme  .
- e resolver problemas futuro em linux 
+ estoucolando uma novo sistema no programa 
+ e smerpre comentado no readme  
